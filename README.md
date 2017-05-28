@@ -43,33 +43,33 @@ npm install --save @ionic-native/file-path
 npm install --save @ionic-native/transfer
 npm install --save @ionic-native/device-motion
 npm install --save @ionic/storage
-npm install @ionic-native/google-maps
-npm install @ionic-native/geolocation
-npm install @ionic-native/native-geocoder
-npm install @ionic-native/location-accuracy
+npm install --save @ionic-native/google-maps
+npm install --save @ionic-native/geolocation
+npm install --save @ionic-native/native-geocoder
+npm install --save @ionic-native/location-accuracy
 
 
 #### Referências Bibliográficas
 
-* Ionic 2 Mobile App in Under 60 Minutes (Traversy Media)
++ Ionic 2 Mobile App in Under 60 Minutes (Traversy Media)
 https://www.youtube.com/watch?v=ilM8YorL_jI
 
-* Ionic 2 - Google Maps (Raja Yogan)
++ Ionic 2 - Google Maps (Raja Yogan)
 https://www.youtube.com/watch?v=jD5yYX1KWXA
 
-* Ionic 2 - Geolocation and Geocoding (Raja Yogan)
++ Ionic 2 - Geolocation and Geocoding (Raja Yogan)
 https://www.youtube.com/watch?v=YeVpQG4D7uo
 
-* Ionic 2 Creating a Page and Navigation between the pages (Anish Nirmal)
++ Ionic 2 Creating a Page and Navigation between the pages (Anish Nirmal)
 https://www.youtube.com/watch?v=JKa5lySRPZw
 
-* A Simple Guide to Navigation in Ionic 2 (Josh Morony)
++ A Simple Guide to Navigation in Ionic 2 (Josh Morony)
 https://www.joshmorony.com/a-simple-guide-to-navigation-in-ionic-2/
 
-* Ionic Native: Working with the Device Motion Plugin
++ Ionic Native: Working with the Device Motion Plugin
 http://blog.ionic.io/ionic-native-working-with-the-device-motion-plugin/
 
-* The Complete Ionic Images Guide (Capture, Store & Upload)
++ The Complete Ionic Images Guide (Capture, Store & Upload)
 https://devdactic.com/ionic-2-images/
 
 
