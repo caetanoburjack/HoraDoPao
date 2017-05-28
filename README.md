@@ -27,44 +27,44 @@ A imagem capturada é armazenada e o nome dela é salvo no armazenamento do apar
 
 #### Plugins Utilizados (Comandos)
 
-+ ionic cordova plugin add cordova-plugin-camera --save
-+ ionic cordova plugin add cordova-plugin-file --save
-+ ionic cordova plugin add cordova-plugin-file-transfer --save
-+ ionic cordova plugin add cordova-plugin-filepath --save
-+ ionic cordova plugin add cordova-plugin-device-motion
-+ ionic cordova plugin add cordova-sqlite-storage --save
-+ ionic cordova plugin add cordova-plugin-googlemaps --variable API_KEY_FOR_ANDROID="API_KEY" --variable API_KEY_FOR_IOS="API_KEY"
-+ ionic cordova plugin add cordova-plugin-geolocation
-+ ionic cordova plugin add cordova-plugin-nativegeocoder
-+ ionic cordova plugin add cordova-plugin-request-location-accuracy
+* ionic cordova plugin add cordova-plugin-camera --save
+* ionic cordova plugin add cordova-plugin-file --save
+* ionic cordova plugin add cordova-plugin-file-transfer --save
+* ionic cordova plugin add cordova-plugin-filepath --save
+* ionic cordova plugin add cordova-plugin-device-motion
+* ionic cordova plugin add cordova-sqlite-storage --save
+* ionic cordova plugin add cordova-plugin-googlemaps --variable API_KEY_FOR_ANDROID="API_KEY" --variable API_KEY_FOR_IOS="API_KEY"
+* ionic cordova plugin add cordova-plugin-geolocation
+* ionic cordova plugin add cordova-plugin-nativegeocoder
+* ionic cordova plugin add cordova-plugin-request-location-accuracy
 
-+ npm install --save @ionic-native/camera
-+ npm install --save @ionic-native/file
-+ npm install --save @ionic-native/file-path
-+ npm install --save @ionic-native/transfer
-+ npm install --save @ionic-native/device-motion
-+ npm install --save @ionic/storage
-+ npm install --save @ionic-native/google-maps
-+ npm install --save @ionic-native/geolocation
-+ npm install --save @ionic-native/native-geocoder
-+ npm install --save @ionic-native/location-accuracy
+* npm install --save @ionic-native/camera
+* npm install --save @ionic-native/file
+* npm install --save @ionic-native/file-path
+* npm install --save @ionic-native/transfer
+* npm install --save @ionic-native/device-motion
+* npm install --save @ionic/storage
+* npm install --save @ionic-native/google-maps
+* npm install --save @ionic-native/geolocation
+* npm install --save @ionic-native/native-geocoder
+* npm install --save @ionic-native/location-accuracy
 
 
 #### Referências Bibliográficas
 
-+ [Ionic 2 Mobile App in Under 60 Minutes (Traversy Media)](https://www.youtube.com/watch?v=ilM8YorL_jI)
+* [Ionic 2 Mobile App in Under 60 Minutes (Traversy Media)](https://www.youtube.com/watch?v=ilM8YorL_jI)
 
-+ [Ionic 2 - Google Maps (Raja Yogan)]https://www.youtube.com/watch?v=jD5yYX1KWXA
+* [Ionic 2 - Google Maps (Raja Yogan)](https://www.youtube.com/watch?v=jD5yYX1KWXA)
 
-+ [Ionic 2 - Geolocation and Geocoding (Raja Yogan)](https://www.youtube.com/watch?v=YeVpQG4D7uo)
+* [Ionic 2 - Geolocation and Geocoding (Raja Yogan)](https://www.youtube.com/watch?v=YeVpQG4D7uo)
 
-+ [Ionic 2 Creating a Page and Navigation between the pages (Anish Nirmal)](https://www.youtube.com/watch?v=JKa5lySRPZw)
+* [Ionic 2 Creating a Page and Navigation between the pages (Anish Nirmal)](https://www.youtube.com/watch?v=JKa5lySRPZw)
 
-+ [A Simple Guide to Navigation in Ionic 2 (Josh Morony)](https://www.joshmorony.com/a-simple-guide-to-navigation-in-ionic-2/)
+* [A Simple Guide to Navigation in Ionic 2 (Josh Morony)](https://www.joshmorony.com/a-simple-guide-to-navigation-in-ionic-2/)
 
-+ [Ionic Native: Working with the Device Motion Plugin](http://blog.ionic.io/ionic-native-working-with-the-device-motion-plugin/)
+* [Ionic Native: Working with the Device Motion Plugin](http://blog.ionic.io/ionic-native-working-with-the-device-motion-plugin/)
 
-+ [The Complete Ionic Images Guide (Capture, Store & Upload)](https://devdactic.com/ionic-2-images/)
+* [The Complete Ionic Images Guide (Capture, Store & Upload)](https://devdactic.com/ionic-2-images/)
 
 
 
